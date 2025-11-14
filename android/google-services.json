@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294513604128",
+    "project_id": "cookie-byte-219d3",
+    "storage_bucket": "cookie-byte-219d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294513604128:android:f3f315b89171f5a6ec2e45",
+        "android_client_info": {
+          "package_name": "com.CookieByte.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0AKzwl95xTyfEzEFhzEXe3nRx5oXMxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
